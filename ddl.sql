@@ -55,4 +55,4 @@ show tables;
 desc student;
 
 show databases;
-drop database first;
+drop database first;   
