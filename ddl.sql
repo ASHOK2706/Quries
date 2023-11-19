@@ -1,9 +1,9 @@
 Types of SQL Comments:
-		DDL
-        DML
-        TCL
-        DCL
-        DQL
+		--> DDL
+        --> DML
+        --> TCL
+        --> DCL
+        --> DQL
 
 DDL->Data Difination Language
 commants 
